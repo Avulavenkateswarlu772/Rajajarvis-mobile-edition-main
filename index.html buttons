@@ -1,0 +1,9 @@
+1 <button id="send">SEND</button>
+
+2 <button id="mic-btn"> </button>
+
+3 <button id="clear-btn"> /</button>
+
+4 <button id="cam-btn"></button>
+
+5 <input type="file" id="img-input" accept="image/*" capture="environment" style="display:none">
